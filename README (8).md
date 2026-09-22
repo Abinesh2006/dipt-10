@@ -105,7 +105,7 @@ plt.show()
 - The image serves as the source for morphological processing.
 
 
-<img width="405" height="295" alt="image" src="https://github.com/user-attachments/assets/615e2606-a287-496f-98e9-50aaed8f62f8" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/3b27239f-6d93-4585-9d7b-96450e210cad" />
 
 
 ### Opening Operation
@@ -116,7 +116,7 @@ plt.show()
 - Thin protrusions and isolated pixels are eliminated.
 - Object boundaries become smoother.
 
-<img width="399" height="284" alt="image" src="https://github.com/user-attachments/assets/99da3bbf-7aea-4c54-8fa3-cd58d45549f2" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/157cfb56-c2a7-4821-86dd-06492b597cc6" />
 
 
 ### Closing Operation
@@ -128,7 +128,7 @@ plt.show()
 - Object boundaries become more continuous.
 
 
-<img width="423" height="299" alt="image" src="https://github.com/user-attachments/assets/970f098f-6de1-4cca-88df-208d23e6b192" />
+<img width="389" height="411" alt="image" src="https://github.com/user-attachments/assets/12aa0d71-c3b7-4902-abf5-e984f055d183" />
 
 
 ## Applications
